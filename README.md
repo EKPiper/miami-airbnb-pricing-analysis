@@ -21,6 +21,9 @@ Analyze pricing trends, identify high-end listings, and evaluate whether price c
 ![Dashboard](top_10_most_expensive_listings.png)
 ![Dashboard](price_vs_rating.png)
 
+## Live Visual Dashboard
+[View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1dpsMhqErmDmynSZ25qAMzpMrxzl7Mfiycgv7WGzhOfI/edit?usp=sharing)
+
 
 
 

@@ -8,4 +8,4 @@
 
 ## Notes
 - Raw data is unmodified
-- Cleaned data was processed using SQL
+- Cleaned data was modified in Google Sheets

@@ -15,7 +15,14 @@ Analyze pricing trends, identify high-end listings, and evaluate whether price c
 - Top listings operate in a distinct luxury pricing tier
 - Price has a weak relationship with rating, indicating value exists across price ranges
 
-## Visualizations
-![Dashboard](
+## Visual Dashboard
+![Dashboard](miami_airbnb_dashboard_big_picture.png)
+![Dashboard](avg_daily_rate_by_neighborhood.png)
+![Dashboard](top_10_most_expensive_listings.png)
+![Dashboard](price_vs_rating.png)
+
+
+
+
 
 

@@ -17,8 +17,11 @@ Analyze pricing trends, identify high-end listings, and evaluate whether price c
 
 ## Visual Dashboard
 ![Dashboard](miami_airbnb_dashboard_big_picture.png)
+
 ![Dashboard](avg_daily_rate_by_neighborhood.png)
+
 ![Dashboard](top_10_most_expensive_listings.png)
+
 ![Dashboard](price_vs_rating.png)
 
 ## Live Visual Dashboard

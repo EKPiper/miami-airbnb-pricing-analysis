@@ -23,7 +23,7 @@ Analyze pricing trends, identify high-end listings, and evaluate whether price c
 - Raw dataset not included due to size (sample provided)
 
 ## Sample SQL Query
-```sql
+```
 -- Average Price by Neighborhood
 SELECT 
     Neighborhood, 
@@ -33,8 +33,7 @@ WHERE Neighborhood IS NOT NULL
 GROUP BY Neighborhood
 ORDER BY Avg_Price DESC;
 
-
-```markdown
+```
 ## Live Visual Dashboard
 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1x_ZEdtdO7WMuxt4OwJKCm5ptbhzmXxragdp1iqpHdMg/edit?usp=sharing)
 
@@ -42,7 +41,7 @@ ORDER BY Avg_Price DESC;
 ![Dashboard](miami_airbnb_dashboard_big_picture.png)
 
 ## Full SQL Queries
-See Analysis_Queries.sql for all queries in this project
+See MiamiAnalysis_Queries.sql for all queries in this project
 
 
 

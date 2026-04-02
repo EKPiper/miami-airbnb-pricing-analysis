@@ -23,7 +23,7 @@ Analyze pricing trends, identify high-end listings, and evaluate whether price c
 - Raw dataset not included due to size (sample provided)
 
 ## Sample SQL Query
-```
+```sql
 -- Average Price by Neighborhood
 SELECT 
     Neighborhood, 

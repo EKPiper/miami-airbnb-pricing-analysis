@@ -19,8 +19,7 @@ Analyze pricing trends, identify high-end listings, and evaluate whether price c
 
 ## Data
 - Dataset includes 10,000+ Airbnb listings
-- Cleaned dataset available in /data folder
-- Raw dataset not included due to size (sample provided)
+- Cleaned and raw dataset available in /data folder
 
 ## Sample SQL Query
 ```sql

@@ -38,6 +38,8 @@ ORDER BY Avg_Price DESC;
 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1x_ZEdtdO7WMuxt4OwJKCm5ptbhzmXxragdp1iqpHdMg/edit?usp=sharing)
 
 ## Visual Dashboard
+<img src="avg_daily_rate_by_neighborhood.png" width="500">
+
 ![Dashboard](images/avg_daily_rate_by_neighborhood.png)
 ![Dashboard](images/top_10_most_expensive_listings.png)
 ![Dashboard](images/price_vs_rating.png)

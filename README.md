@@ -41,7 +41,7 @@ ORDER BY Avg_Price DESC;
 
 <img src="images/avg_daily_rate_by_neighborhood.png" width="400" alt="Dashboard">
 <img src="images/top_10_most_expensive_listings.png" width="400" alt="Dashboard">
-<img src="images/images/price_vs_rating.png" width="400" alt="Dashboard">
+<img src="images/price_vs_rating.png" width="400" alt="Dashboard">
 
 
 ## Full SQL Queries

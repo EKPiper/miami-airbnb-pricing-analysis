@@ -42,7 +42,7 @@ ORDER BY Avg_Price DESC;
 ![Dashboard](miami_airbnb_dashboard_big_picture.png)
 
 ## Full SQL Queries
-See MiamiAnalysis_Queries.sql for all queries in this project
+See analysis_queries.sql in /SQL for all queries in this project
 
 
 

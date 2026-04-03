@@ -38,7 +38,7 @@ ORDER BY Avg_Price DESC;
 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1x_ZEdtdO7WMuxt4OwJKCm5ptbhzmXxragdp1iqpHdMg/edit?usp=sharing)
 
 ## Visual Dashboard
-![Dashboard](miami_airbnb_dashboard_big_picture.png)
+![Dashboard](images/miami_airbnb_dashboard_big_picture.png)
 
 ## Full SQL Queries
 See analysis_queries.sql in /SQL for all queries in this project

@@ -39,7 +39,7 @@ ORDER BY Avg_Price DESC;
 
 ## Visual Dashboard
 
-![Dashboard](images/avg_daily_rate_by_neighborhood.png)
+<img src="images/avg_daily_rate_by_neighborhood.png" width="400" alt="Dashboard">
 ![Dashboard](images/top_10_most_expensive_listings.png)
 ![Dashboard](images/price_vs_rating.png)
 
